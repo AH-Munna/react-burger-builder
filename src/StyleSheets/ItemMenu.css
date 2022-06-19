@@ -1,0 +1,9 @@
+.my-cards {
+    width: 400px;
+    transition: transform .2s;
+    height: 400px;
+}
+
+.my-cards:hover {
+    transform: scale(1.05);
+}

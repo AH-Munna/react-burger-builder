@@ -1,0 +1,12 @@
+.Ingredient {
+    text-align: center;
+    margin: 5px;
+}
+
+.Ingredient img {
+    width: 80%;
+}
+
+.transparentBG {
+    background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(42, 185, 143, 0.3));
+}
